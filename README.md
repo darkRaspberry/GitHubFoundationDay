@@ -1,4 +1,4 @@
-# 🚀✨ HI THERE 👋
+# 🚀✨ HI THERE! 👋
 
 This is Foundation day of GitHUB.
 
@@ -9,7 +9,7 @@ This repo is only to remind that today "GitHub is founded."🤩🥳🌟✨🎇�
 
 ## So what to do?
 
-Party 😄😁
+Party. 😄😁
 
 <p align="center">
 <img src="https://github.com/darkRaspberry/GitHubFoundationDay/blob/master/src/github120.png" alt="fruit" />
